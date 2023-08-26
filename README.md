@@ -3,10 +3,9 @@
 I've been working on software since 2013 and have gained extensive experience from numerous projects over the past decade. This has helped me effectively manage the interplay between technology 💻 and people 👯.
 
 ### 📫 How to reach me:
-<div style="display:inline_block;">
-  <a href="mailto:adrianolangaro1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="[https://www.linkedin.com/in/nycolas-araujo-42818b224/](https://www.linkedin.com/in/adriano-langaro-7878801b3/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</div>  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adrianolangaro1@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adriano-langaro-7878801b3/)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5554996305927)
 
 ### :computer: Tech Stack:
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
