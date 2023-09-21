@@ -1,21 +1,30 @@
 
-### 👋 Hi there, my name is Adriano.
-I've been working on software since 2013 and have gained extensive experience from numerous projects over the past decade. This has helped me effectively manage the interplay between technology 💻 and people 👯.
+### 👋 Hi there, my name is Adriano
+
+and I've had the privilege of journeying through the world of technology and software development for nearly a decade. Here's a glimpse into my tech-focused profile:
+
+👨‍💻 **A Decade of Learning**: I've been fortunate to spend almost 10 years in the world of software development, and I'm still learning every day. This journey has been a humbling experience filled with valuable insights.
+
+🚀 **Tech Enthusiast**: My fascination with technology knows no bounds. I'm genuinely passionate about leveraging the power of technology to create meaningful solutions.
+
+🌟 **Main Technologies**: My heart lies with three core technologies: ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white), ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D), and ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white). These are the tools I've come to appreciate and enjoy working with.
+
+💻 **Web Development Versatility**: My journey has exposed me to various facets of web development. From ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) and ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) to ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white), and from coding in ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) , ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) , ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white), ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) , ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white), ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white), 	![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) and ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white). I've dabbled in it all.
+
+👥 **Team Player**: Collaboration has been a cornerstone of my career. I've had the privilege of working in teams, tackling complex challenges with a group of talented individuals.
+
+🌐 **Continual Learning**: In the ever-evolving tech landscape, I'm committed to staying humble and learning. I strive to stay updated with the latest trends and practices.
+
+🚀 **Tech as a Force for Good**: I believe that technology has the potential to bring about positive change. If you share this belief or would like to explore tech-related discussions, feel free to connect.
+
+📬 **Let's Connect**: I'm always open to connecting with fellow tech enthusiasts, learning from your experiences, and discovering new ways to make a positive impact through technology.
+
+Looking forward to connecting and sharing insights with the tech community. Let's continue learning and growing together in the ever-exciting tech world! 🌐
 
 ### 📫 How to reach me:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adrianolangaro1@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adriano-langaro-7878801b3/)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5554996305927)
-
-### :computer: Tech Stack:
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=langaro&icon=0&color=0)](https://visitcount.itsvg.in)
