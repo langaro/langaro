@@ -1,7 +1,7 @@
 
 ### 👋 Hi there, my name is Adriano
 
-and I've had the privilege of journeying through the world of technology and software development for nearly a decade. Here's a glimpse into my tech-focused profile:
+I've had the privilege of journeying through the world of technology and software development for more than a decade. Here's a glimpse into my tech-focused profile:
 
 👨‍💻 **A Decade of Learning**: I've been fortunate to spend almost 10 years in the world of software development, and I'm still learning every day. This journey has been a humbling experience filled with valuable insights.
 
